@@ -5,5 +5,5 @@ Binge Match aims to combat the growing problem of decision paralysis when scroll
 ### Technologies:
 - Python (coding language)
 - Anvil.works (coding environment)
-#### Launch:
+### Launch:
 Anvil.works does not require anything additional to run the code through the site, the site runs it all for you!

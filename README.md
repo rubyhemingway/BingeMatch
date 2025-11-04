@@ -33,3 +33,5 @@ Stapleton, A. (2025b). Functions. https://canvas.uts.edu.au/courses/37106/pages/
 - This project was inspired by the common problem of finding myself scrolling for ages on streaming platforms trying to find something good to watch.
 - This project was based on our simplei introduction to functions and conditionals, encouraging me to dive deeper and understand more about what you can do with code.
 - Many thanks to Anna Savery (my tutor) for offering so much help when I was deeply struggling with understanding how to code my search bar during the start of my project. Thank you for offering to look at my code outside of class time and being understanding, as well as the time and effort put into our tutorials.
+## Contact me:
+ruby.hemingway-gordon@student.uts.edu.au
